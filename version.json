@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/ibrarpervezwm840/wfms-fuel-automation/releases/download/v1.0.0/WFMS_Fuel_Automation_1.0.0_app.zip",
-  "sha256": "cbfa41586e32dd731a47ed5bf0a71a7d138687fe109712dc67bb44da727ea70e",
-  "notes": "",
+  "version": "1.1.0",
+  "url": "https://github.com/ibrarpervezwm840/wfms-fuel-automation/releases/download/v1.1.0/WFMS_Fuel_Automation_1.1.0_app.zip",
+  "sha256": "99d93546e763412419dc1cba658ab9dd3627444918525135ed6b7af70deb4de0",
+  "notes": "Licence system, faster entries, Hours field fixed",
   "replace_selectors": false,
   "mandatory": false
 }
